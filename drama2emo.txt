@@ -1,0 +1,24 @@
+loading model ...
+complete1
+the 1 clip is ['hap']
+tensor([1.])
+the 2 clip is ['sad']
+tensor([0.9693])
+the 3 clip is ['neu']
+tensor([1.0000])
+the 4 clip is ['neu']
+tensor([0.9914])
+the 5 clip is ['sad']
+tensor([0.9998])
+the 6 clip is ['neu']
+tensor([1.0000])
+the 7 clip is ['neu']
+tensor([1.])
+the 8 clip is ['sad']
+tensor([0.9998])
+the 9 clip is ['hap']
+tensor([1.])
+the 10 clip is ['sad']
+tensor([1.0000])
+the 11 clip is ['hap']
+tensor([1.])

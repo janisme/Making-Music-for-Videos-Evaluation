@@ -1,0 +1,877 @@
+wording_list complete! =======
+Number of wording:  13
+Loading model ...
+Model loading complete! =======
+Directory copied and overwritten successfully.
+Total video: 13, total wording: 13, p @ 13, sample_target = 1
+====== # 1 / 13 
+Process vedio: vedio id =  69  generated id =  9
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.999988317489624, g_id = 9, v_id = 69
+wording = the olympic stadium is lit up at night
+Prob: 0.9999526739120483, g_id = 9, v_id = 69
+wording = the olympic stadium is lit up at night
+Prob: 0.9998683929443359, g_id = 9, v_id = 69
+wording = the olympic stadium is lit up at night
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 2 / 13 
+Process vedio: vedio id =  1  generated id =  0
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.995512068271637, g_id = 0, v_id = 1
+wording = a man is standing on a rocky cliff overlooking the ocean
+Prob: 0.9946838021278381, g_id = 0, v_id = 1
+wording = a man is standing on a rocky cliff overlooking the ocean
+Prob: 0.9946032166481018, g_id = 0, v_id = 1
+wording = a man is standing on a rocky cliff overlooking the ocean
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 3 / 13 
+Process vedio: vedio id =  84  generated id =  12
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9962693452835083, g_id = 12, v_id = 84
+wording = a large red sculpture is in the middle of a crowd
+Prob: 0.9999293088912964, g_id = 12, v_id = 84
+wording = a large red sculpture is in the middle of a crowd
+Prob: 0.9994874000549316, g_id = 12, v_id = 84
+wording = a large red sculpture is in the middle of a crowd
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 4 / 13 
+Process vedio: vedio id =  2  generated id =  1
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9997406601905823, g_id = 1, v_id = 2
+wording = a view of a wetland area with a fence and rocks
+Prob: 0.999388575553894, g_id = 1, v_id = 2
+wording = a view of a wetland area with a fence and rocks
+Prob: 0.9983729124069214, g_id = 1, v_id = 2
+wording = a view of a wetland area with a fence and rocks
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 5 / 13 
+Process vedio: vedio id =  29  generated id =  6
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9992446899414062, g_id = 6, v_id = 29
+wording = lavender flowers in the garden
+Prob: 0.9998695850372314, g_id = 6, v_id = 29
+wording = lavender flowers in the garden
+Prob: 0.9998443126678467, g_id = 6, v_id = 29
+wording = lavender flowers in the garden
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 6 / 13 
+Process vedio: vedio id =  5  generated id =  3
+Writing 303 frames to CSV...
+%%%%num of clip: 31, num of shot: 10
+Prob: 0.8738590478897095, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7862784266471863, g_id = 3, v_id = 5
+wording = two elephants walking in a zoo enclosure
+Prob: 0.7018404603004456, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.8321833610534668, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.874891996383667, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.9285725355148315, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.6800627708435059, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.8038101196289062, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7706277966499329, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.6606414318084717, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.6259668469429016, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7762836217880249, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.9418115615844727, g_id = 3, v_id = 5
+wording = two elephants walking in a zoo enclosure
+Prob: 0.7777475714683533, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.86539226770401, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7760044932365417, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7721871733665466, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.8323422074317932, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.6848469376564026, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.5143343806266785, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.5973423719406128, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7408394813537598, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.8941476345062256, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.751907467842102, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7476735711097717, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.693854570388794, g_id = 4, v_id = 13
+wording = a cartoon image of clouds and plants
+Prob: 0.8217959403991699, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.7625390291213989, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.5355938673019409, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.6824091076850891, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.8882270455360413, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+total accuracy for this clip: 0.06451612903225806
+&&&&&&&& 2.6451612903225805
+====== # 7 / 13 
+Process vedio: vedio id =  13  generated id =  4
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9162922501564026, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.9989407658576965, g_id = 4, v_id = 13
+wording = a cartoon image of clouds and plants
+Prob: 0.9997568726539612, g_id = 4, v_id = 13
+wording = a cartoon image of clouds and plants
+total accuracy for this clip: 0.6666666666666666
+&&&&&&&& 1.6666666666666667
+====== # 8 / 13 
+Process vedio: vedio id =  39  generated id =  7
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.6199723482131958, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.9428663849830627, g_id = 7, v_id = 39
+wording = black and white photo of a mountain range
+Prob: 0.999882698059082, g_id = 7, v_id = 39
+wording = black and white photo of a mountain range
+total accuracy for this clip: 0.6666666666666666
+&&&&&&&& 1.6666666666666667
+====== # 9 / 13 
+Process vedio: vedio id =  80  generated id =  11
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9991081357002258, g_id = 11, v_id = 80
+wording = a group of children playing with hula hoops
+Prob: 0.9944239258766174, g_id = 11, v_id = 80
+wording = a group of children playing with hula hoops
+Prob: 0.9999463558197021, g_id = 11, v_id = 80
+wording = a group of children playing with hula hoops
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 10 / 13 
+Process vedio: vedio id =  4  generated id =  2
+Writing 242 frames to CSV...
+%%%%num of clip: 40, num of shot: 12
+Prob: 0.9997511506080627, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.8823071718215942, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9769996404647827, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9975078105926514, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9995230436325073, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9709582924842834, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.898402214050293, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9987026453018188, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9982074499130249, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9783021211624146, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9679476618766785, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9951239228248596, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9989438652992249, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9897851347923279, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9983956217765808, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9987925291061401, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9640676379203796, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9890900254249573, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9916211366653442, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.71248459815979, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9959452748298645, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9999613761901855, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9964513778686523, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9985718727111816, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9903685450553894, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9999176263809204, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9991589784622192, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9994974136352539, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9989357590675354, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9958961009979248, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9932551383972168, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9998751878738403, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.999267041683197, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9939073920249939, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.998069703578949, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9981476068496704, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9992413520812988, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9999164342880249, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.8966530561447144, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+Prob: 0.9986351132392883, g_id = 2, v_id = 4
+wording = a group of people dressed in blue and white are dancing
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 11 / 13 
+Process vedio: vedio id =  77  generated id =  10
+Writing 242 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9971920847892761, g_id = 10, v_id = 77
+wording = a group of people standing around a fire in a circle
+Prob: 0.9846214056015015, g_id = 10, v_id = 77
+wording = a group of people standing around a fire in a circle
+Prob: 0.9943865537643433, g_id = 10, v_id = 77
+wording = a group of people standing around a fire in a circle
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 12 / 13 
+Process vedio: vedio id =  20  generated id =  5
+Writing 242 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9924966096878052, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.9987455606460571, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+Prob: 0.9901759028434753, g_id = 5, v_id = 20
+wording = elephants in the wild - elephant stock videos & royalty-free footage
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 13 / 13 
+Process vedio: vedio id =  66  generated id =  8
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9999977350234985, g_id = 8, v_id = 66
+wording = yellowstone national park's most famous geyser erupts
+Prob: 0.9999997615814209, g_id = 8, v_id = 66
+wording = yellowstone national park's most famous geyser erupts
+Prob: 0.9999985694885254, g_id = 8, v_id = 66
+wording = yellowstone national park's most famous geyser erupts
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+********* Testing sample 1 *******
+======Total accuracy:  0.8767576509511994
+======Total ranking:  1.2291149710504548
+Directory copied and overwritten successfully.
+Total video: 13, total wording: 13, p @ 13, sample_target = 2
+====== # 1 / 13 
+Process vedio: vedio id =  69  generated id =  9
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9996404647827148, g_id = 9, v_id = 69
+wording = A grand orchestral piece with strong brass and percussion, evoking a sense of awe and majesty, mirroring the stadium's illuminated grandeur against the night sky.
+Prob: 0.9990015625953674, g_id = 9, v_id = 69
+wording = A grand orchestral piece with strong brass and percussion, evoking a sense of awe and majesty, mirroring the stadium's illuminated grandeur against the night sky.
+Prob: 0.9986294507980347, g_id = 9, v_id = 69
+wording = A grand orchestral piece with strong brass and percussion, evoking a sense of awe and majesty, mirroring the stadium's illuminated grandeur against the night sky.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 2 / 13 
+Process vedio: vedio id =  1  generated id =  0
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9722033739089966, g_id = 0, v_id = 1
+wording = A blend of serene strings and deep, resonant tones captures the vastness and grandeur of the scene, with occasional crescendos mirroring the crashing waves below, evoking awe and contemplation.
+Prob: 0.9840196371078491, g_id = 0, v_id = 1
+wording = A blend of serene strings and deep, resonant tones captures the vastness and grandeur of the scene, with occasional crescendos mirroring the crashing waves below, evoking awe and contemplation.
+Prob: 0.9695672988891602, g_id = 0, v_id = 1
+wording = A blend of serene strings and deep, resonant tones captures the vastness and grandeur of the scene, with occasional crescendos mirroring the crashing waves below, evoking awe and contemplation.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 3 / 13 
+Process vedio: vedio id =  84  generated id =  12
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9519913792610168, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.9613891839981079, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.958287239074707, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 4 / 13 
+Process vedio: vedio id =  2  generated id =  1
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9605466723442078, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.9699918627738953, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.9703717827796936, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 5 / 13 
+Process vedio: vedio id =  29  generated id =  6
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.967659592628479, g_id = 6, v_id = 29
+wording = A gentle, dreamy piece featuring soft piano and ethereal strings, capturing the calming essence of lavender flowers swaying in a gentle breeze, evoking a sense of tranquility and peacefulness.
+Prob: 0.9695172309875488, g_id = 6, v_id = 29
+wording = A gentle, dreamy piece featuring soft piano and ethereal strings, capturing the calming essence of lavender flowers swaying in a gentle breeze, evoking a sense of tranquility and peacefulness.
+Prob: 0.9623278379440308, g_id = 6, v_id = 29
+wording = A gentle, dreamy piece featuring soft piano and ethereal strings, capturing the calming essence of lavender flowers swaying in a gentle breeze, evoking a sense of tranquility and peacefulness.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 6 / 13 
+Process vedio: vedio id =  5  generated id =  3
+Writing 303 frames to CSV...
+%%%%num of clip: 31, num of shot: 10
+Prob: 0.3065263628959656, g_id = 10, v_id = 77
+wording = The music starts softly, mimicking the crackling of the fire, gradually building with tribal drums and chants, evoking a sense of unity, storytelling, and ancient rituals.
+Prob: 0.7926353216171265, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.6594994068145752, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.4159010350704193, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.2923588752746582, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.5075491666793823, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.3514867424964905, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.6848932504653931, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.51183021068573, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.578840434551239, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.5676193833351135, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.3985787630081177, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.8811633586883545, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.38294661045074463, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.5681537389755249, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.32273051142692566, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.3707273304462433, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.4754990041255951, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.24054457247257233, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.4130043387413025, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.40501487255096436, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.44378891587257385, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.3447757661342621, g_id = 1, v_id = 2
+wording = A tranquil yet vibrant melody emerges, blending soft, flowing tones to reflect the serenity of the wetland, punctuated by gentle percussion mimicking the rustling of reeds and the trickle of water.
+Prob: 0.3850587010383606, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.36427611112594604, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.8434512615203857, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.37876227498054504, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.28431904315948486, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.5870888829231262, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+Prob: 0.2604811489582062, g_id = 10, v_id = 77
+wording = The music starts softly, mimicking the crackling of the fire, gradually building with tribal drums and chants, evoking a sense of unity, storytelling, and ancient rituals.
+Prob: 0.3237680196762085, g_id = 3, v_id = 5
+wording = A gentle, rhythmic composition featuring deep, resonant tones to mirror the elephants' slow, deliberate movements. Soft percussion and serene melodies evoke the peaceful atmosphere of the zoo enclosure.
+total accuracy for this clip: 0.3548387096774194
+&&&&&&&& 2.225806451612903
+====== # 7 / 13 
+Process vedio: vedio id =  13  generated id =  4
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.2595381438732147, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.9969672560691833, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+Prob: 0.9973783493041992, g_id = 4, v_id = 13
+wording = A whimsical, light-hearted melody featuring flute and strings, mimicking the gentle sway of plants in the breeze and the playful shapes of cartoon clouds floating across a bright, sunny sky.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 8 / 13 
+Process vedio: vedio id =  39  generated id =  7
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.3907722532749176, g_id = 0, v_id = 1
+wording = A blend of serene strings and deep, resonant tones captures the vastness and grandeur of the scene, with occasional crescendos mirroring the crashing waves below, evoking awe and contemplation.
+Prob: 0.6517102718353271, g_id = 7, v_id = 39
+wording = A grand orchestral piece with deep, rumbling bass representing the towering peaks, accompanied by soaring strings and brass depicting the majesty and awe-inspiring beauty of the mountain range.
+Prob: 0.9783700108528137, g_id = 7, v_id = 39
+wording = A grand orchestral piece with deep, rumbling bass representing the towering peaks, accompanied by soaring strings and brass depicting the majesty and awe-inspiring beauty of the mountain range.
+total accuracy for this clip: 0.6666666666666666
+&&&&&&&& 1.3333333333333333
+====== # 9 / 13 
+Process vedio: vedio id =  80  generated id =  11
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.593056857585907, g_id = 11, v_id = 80
+wording = A lively, playful piece with bouncy rhythms and bright melodies, mimicking the joyous energy of children. Instruments like xylophones, flutes, and light percussion create a fun, carefree atmosphere.
+Prob: 0.39353522658348083, g_id = 11, v_id = 80
+wording = A lively, playful piece with bouncy rhythms and bright melodies, mimicking the joyous energy of children. Instruments like xylophones, flutes, and light percussion create a fun, carefree atmosphere.
+Prob: 0.8756080269813538, g_id = 11, v_id = 80
+wording = A lively, playful piece with bouncy rhythms and bright melodies, mimicking the joyous energy of children. Instruments like xylophones, flutes, and light percussion create a fun, carefree atmosphere.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 10 / 13 
+Process vedio: vedio id =  4  generated id =  2
+Writing 242 frames to CSV...
+%%%%num of clip: 40, num of shot: 12
+Prob: 0.9874588251113892, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.7162290215492249, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.3633527159690857, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.5340352654457092, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.880203902721405, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.8826649785041809, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9604682922363281, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9388079047203064, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.8469362258911133, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.7818939089775085, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.5249151587486267, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9688122272491455, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9606547355651855, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.5673364996910095, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.8644054532051086, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.6463633179664612, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.6297680735588074, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.8289108872413635, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.8511679172515869, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.7840478420257568, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.4791523218154907, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9746868014335632, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.8886622190475464, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9252694845199585, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.6900321841239929, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.8455241918563843, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9315361380577087, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.7616127133369446, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9360888004302979, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.5034109950065613, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.5144665241241455, g_id = 12, v_id = 84
+wording = A rhythmic, pulsating composition, with deep bass tones and sharp, metallic sounds, reflecting the sculpture's imposing presence and the energetic buzz of the surrounding crowd.
+Prob: 0.8391373157501221, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9611864686012268, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9312149882316589, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.8187435865402222, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.491034597158432, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9780529737472534, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.9546598792076111, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.4318232834339142, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+Prob: 0.6683629155158997, g_id = 2, v_id = 4
+wording = A lively, upbeat composition with a mix of traditional and modern instruments, featuring catchy melodies and rhythms that mirror the energetic and joyful movements of the dancers in blue and white.
+total accuracy for this clip: 0.825
+&&&&&&&& 1.175
+====== # 11 / 13 
+Process vedio: vedio id =  77  generated id =  10
+Writing 242 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9968973398208618, g_id = 10, v_id = 77
+wording = The music starts softly, mimicking the crackling of the fire, gradually building with tribal drums and chants, evoking a sense of unity, storytelling, and ancient rituals.
+Prob: 0.9919657707214355, g_id = 10, v_id = 77
+wording = The music starts softly, mimicking the crackling of the fire, gradually building with tribal drums and chants, evoking a sense of unity, storytelling, and ancient rituals.
+Prob: 0.9881715178489685, g_id = 10, v_id = 77
+wording = The music starts softly, mimicking the crackling of the fire, gradually building with tribal drums and chants, evoking a sense of unity, storytelling, and ancient rituals.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 12 / 13 
+Process vedio: vedio id =  20  generated id =  5
+Writing 242 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.972052276134491, g_id = 5, v_id = 20
+wording = A majestic orchestral piece with deep, resonant brass and sweeping strings, capturing the grandeur and gentle majesty of elephants in their natural habitat, evoking a sense of wonder and reverence.
+Prob: 0.987423837184906, g_id = 5, v_id = 20
+wording = A majestic orchestral piece with deep, resonant brass and sweeping strings, capturing the grandeur and gentle majesty of elephants in their natural habitat, evoking a sense of wonder and reverence.
+Prob: 0.9856650829315186, g_id = 5, v_id = 20
+wording = A majestic orchestral piece with deep, resonant brass and sweeping strings, capturing the grandeur and gentle majesty of elephants in their natural habitat, evoking a sense of wonder and reverence.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 13 / 13 
+Process vedio: vedio id =  66  generated id =  8
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9999593496322632, g_id = 8, v_id = 66
+wording = A symphony of bubbling anticipation builds as Old Faithful's steamy crescendo erupts, punctuating the air with rhythmic bursts of water and minerals, creating a natural percussion of geothermal power.
+Prob: 0.99988853931427, g_id = 8, v_id = 66
+wording = A symphony of bubbling anticipation builds as Old Faithful's steamy crescendo erupts, punctuating the air with rhythmic bursts of water and minerals, creating a natural percussion of geothermal power.
+Prob: 0.9999151229858398, g_id = 8, v_id = 66
+wording = A symphony of bubbling anticipation builds as Old Faithful's steamy crescendo erupts, punctuating the air with rhythmic bursts of water and minerals, creating a natural percussion of geothermal power.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+********* Testing sample 2 *******
+======Total accuracy:  0.9112696443341604
+======Total ranking:  1.1333953680727875
+Directory copied and overwritten successfully.
+Total video: 13, total wording: 13, p @ 13, sample_target = 3
+====== # 1 / 13 
+Process vedio: vedio id =  69  generated id =  9
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9999988079071045, g_id = 9, v_id = 69
+wording = A grand orchestral piece captures the majesty of the Olympic stadium at night. Bold brass fanfares announce the stadium's presence, while strings and percussion create a sense of excitement and anticipation. As the music builds, it conveys the spirit of competition and the thrill of athletic achievement under the stadium's dazzling lights.
+Prob: 0.9999911785125732, g_id = 9, v_id = 69
+wording = A grand orchestral piece captures the majesty of the Olympic stadium at night. Bold brass fanfares announce the stadium's presence, while strings and percussion create a sense of excitement and anticipation. As the music builds, it conveys the spirit of competition and the thrill of athletic achievement under the stadium's dazzling lights.
+Prob: 0.9999814033508301, g_id = 9, v_id = 69
+wording = A grand orchestral piece captures the majesty of the Olympic stadium at night. Bold brass fanfares announce the stadium's presence, while strings and percussion create a sense of excitement and anticipation. As the music builds, it conveys the spirit of competition and the thrill of athletic achievement under the stadium's dazzling lights.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 2 / 13 
+Process vedio: vedio id =  1  generated id =  0
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.6144254803657532, g_id = 0, v_id = 1
+wording = The music begins with soft, distant waves crashing against the rocks, conveying the vastness of the ocean. As the man gazes out, a haunting melody emerges from the depths, blending with the sounds of seagulls and the wind. The music builds, echoing the man's contemplation and the grandeur of nature.
+Prob: 0.8801521062850952, g_id = 0, v_id = 1
+wording = The music begins with soft, distant waves crashing against the rocks, conveying the vastness of the ocean. As the man gazes out, a haunting melody emerges from the depths, blending with the sounds of seagulls and the wind. The music builds, echoing the man's contemplation and the grandeur of nature.
+Prob: 0.8810388445854187, g_id = 0, v_id = 1
+wording = The music begins with soft, distant waves crashing against the rocks, conveying the vastness of the ocean. As the man gazes out, a haunting melody emerges from the depths, blending with the sounds of seagulls and the wind. The music builds, echoing the man's contemplation and the grandeur of nature.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 3 / 13 
+Process vedio: vedio id =  84  generated id =  12
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.6837530732154846, g_id = 12, v_id = 84
+wording = The music starts with deep, resonant tones to reflect the grandeur of the sculpture. As the crowd moves around it, the music shifts to a rhythmic pattern, mirroring the movement and energy of the people. Gradually, the music builds to a crescendo, symbolizing the collective awe and admiration for the artwork.
+Prob: 0.8503696322441101, g_id = 12, v_id = 84
+wording = The music starts with deep, resonant tones to reflect the grandeur of the sculpture. As the crowd moves around it, the music shifts to a rhythmic pattern, mirroring the movement and energy of the people. Gradually, the music builds to a crescendo, symbolizing the collective awe and admiration for the artwork.
+Prob: 0.8182742595672607, g_id = 12, v_id = 84
+wording = The music starts with deep, resonant tones to reflect the grandeur of the sculpture. As the crowd moves around it, the music shifts to a rhythmic pattern, mirroring the movement and energy of the people. Gradually, the music builds to a crescendo, symbolizing the collective awe and admiration for the artwork.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 4 / 13 
+Process vedio: vedio id =  2  generated id =  1
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9869062304496765, g_id = 1, v_id = 2
+wording = A tranquil melody featuring gentle piano and soft strings, mimicking the serenity of the wetland. The music starts with a simple, repetitive motif, representing the steady flow of the water. As the piece progresses, subtle bird calls and rustling reeds are woven in, adding depth and a sense of natural beauty.
+Prob: 0.9950634837150574, g_id = 1, v_id = 2
+wording = A tranquil melody featuring gentle piano and soft strings, mimicking the serenity of the wetland. The music starts with a simple, repetitive motif, representing the steady flow of the water. As the piece progresses, subtle bird calls and rustling reeds are woven in, adding depth and a sense of natural beauty.
+Prob: 0.9946368336677551, g_id = 1, v_id = 2
+wording = A tranquil melody featuring gentle piano and soft strings, mimicking the serenity of the wetland. The music starts with a simple, repetitive motif, representing the steady flow of the water. As the piece progresses, subtle bird calls and rustling reeds are woven in, adding depth and a sense of natural beauty.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 5 / 13 
+Process vedio: vedio id =  29  generated id =  6
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.7199551463127136, g_id = 6, v_id = 29
+wording = Imagine a tranquil piece where delicate piano melodies flutter like butterflies over soft, sustained strings. The music ebbs and flows like a gentle breeze through a lavender field, evoking a sense of peace and calm. Subtle harp glissandos and light percussion add a touch of whimsy, mirroring the flowers' graceful dance in the wind.
+Prob: 0.7394874691963196, g_id = 6, v_id = 29
+wording = Imagine a tranquil piece where delicate piano melodies flutter like butterflies over soft, sustained strings. The music ebbs and flows like a gentle breeze through a lavender field, evoking a sense of peace and calm. Subtle harp glissandos and light percussion add a touch of whimsy, mirroring the flowers' graceful dance in the wind.
+Prob: 0.7746695876121521, g_id = 6, v_id = 29
+wording = Imagine a tranquil piece where delicate piano melodies flutter like butterflies over soft, sustained strings. The music ebbs and flows like a gentle breeze through a lavender field, evoking a sense of peace and calm. Subtle harp glissandos and light percussion add a touch of whimsy, mirroring the flowers' graceful dance in the wind.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 6 / 13 
+Process vedio: vedio id =  5  generated id =  3
+Writing 303 frames to CSV...
+%%%%num of clip: 31, num of shot: 10
+Prob: 0.46466246247291565, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.9147041440010071, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.6803995370864868, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.4587102234363556, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.6794440150260925, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.3425000309944153, g_id = 1, v_id = 2
+wording = A tranquil melody featuring gentle piano and soft strings, mimicking the serenity of the wetland. The music starts with a simple, repetitive motif, representing the steady flow of the water. As the piece progresses, subtle bird calls and rustling reeds are woven in, adding depth and a sense of natural beauty.
+Prob: 0.6781769394874573, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.7334584593772888, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.6990601420402527, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.9113477468490601, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.9063369631767273, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.7810502648353577, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.9598277807235718, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.8380804061889648, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.6088635921478271, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.5900513529777527, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.5042675733566284, g_id = 1, v_id = 2
+wording = A tranquil melody featuring gentle piano and soft strings, mimicking the serenity of the wetland. The music starts with a simple, repetitive motif, representing the steady flow of the water. As the piece progresses, subtle bird calls and rustling reeds are woven in, adding depth and a sense of natural beauty.
+Prob: 0.3492881953716278, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.5599358081817627, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.5983114242553711, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.8500992059707642, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.6824194192886353, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.34067216515541077, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.855500340461731, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.8005437254905701, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.951970100402832, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.7705254554748535, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.696661114692688, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.6451001763343811, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.4800669848918915, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.567024290561676, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+total accuracy for this clip: 0.0967741935483871
+&&&&&&&& 2.903225806451613
+====== # 7 / 13 
+Process vedio: vedio id =  13  generated id =  4
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.27848029136657715, g_id = 10, v_id = 77
+wording = The music could start with soft, ambient sounds evoking the crackling of the fire and gentle murmurs of conversation. As the scene intensifies, drums and rhythmic instruments join, mimicking the heartbeat of the group. Melodic elements could represent each person's unique energy, blending into a harmonious, communal theme.
+Prob: 0.9718562364578247, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+Prob: 0.9722670316696167, g_id = 4, v_id = 13
+wording = A whimsical melody emerges, echoing the playful dance of animated clouds drifting lazily over a vibrant, bustling garden. Gentle strings mimic the breeze rustling through leaves, while flutes and chimes mimic the chatter of animated plants. The music builds, mirroring the growing energy of a magical world filled with life and wonder.
+total accuracy for this clip: 0.6666666666666666
+&&&&&&&& 1.3333333333333333
+====== # 8 / 13 
+Process vedio: vedio id =  39  generated id =  7
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.5200771689414978, g_id = 7, v_id = 39
+wording = A solemn piano melody echoing the grandeur of towering peaks, with deep bass notes mirroring the rugged terrain. Ethereal strings evoke swirling mists, and occasional percussion mimics distant avalanches. The music builds to a crescendo, symbolizing the triumph of reaching the summit, before fading into a reflective, peaceful outro.
+Prob: 0.5510594844818115, g_id = 7, v_id = 39
+wording = A solemn piano melody echoing the grandeur of towering peaks, with deep bass notes mirroring the rugged terrain. Ethereal strings evoke swirling mists, and occasional percussion mimics distant avalanches. The music builds to a crescendo, symbolizing the triumph of reaching the summit, before fading into a reflective, peaceful outro.
+Prob: 0.993363618850708, g_id = 7, v_id = 39
+wording = A solemn piano melody echoing the grandeur of towering peaks, with deep bass notes mirroring the rugged terrain. Ethereal strings evoke swirling mists, and occasional percussion mimics distant avalanches. The music builds to a crescendo, symbolizing the triumph of reaching the summit, before fading into a reflective, peaceful outro.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 9 / 13 
+Process vedio: vedio id =  80  generated id =  11
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9768617749214172, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.9164558053016663, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.9982555508613586, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 10 / 13 
+Process vedio: vedio id =  4  generated id =  2
+Writing 242 frames to CSV...
+%%%%num of clip: 40, num of shot: 12
+Prob: 0.588621973991394, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.5237993001937866, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.7692448496818542, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.5058796405792236, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.8777432441711426, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.8991795778274536, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.702094554901123, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.8482298254966736, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.6739511489868164, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.9398618340492249, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.31501179933547974, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.5333669185638428, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.6793407201766968, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.3523103594779968, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.632985532283783, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.37438347935676575, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.8052508234977722, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.44655561447143555, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.8340445160865784, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.2710754871368408, g_id = 12, v_id = 84
+wording = The music starts with deep, resonant tones to reflect the grandeur of the sculpture. As the crowd moves around it, the music shifts to a rhythmic pattern, mirroring the movement and energy of the people. Gradually, the music builds to a crescendo, symbolizing the collective awe and admiration for the artwork.
+Prob: 0.6362156867980957, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.932996392250061, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.7384499907493591, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.6032300591468811, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.37963104248046875, g_id = 10, v_id = 77
+wording = The music could start with soft, ambient sounds evoking the crackling of the fire and gentle murmurs of conversation. As the scene intensifies, drums and rhythmic instruments join, mimicking the heartbeat of the group. Melodic elements could represent each person's unique energy, blending into a harmonious, communal theme.
+Prob: 0.8163747191429138, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.796780526638031, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.8441973328590393, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.6082414984703064, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.7672134041786194, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.4286308288574219, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.9528432488441467, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.6774051785469055, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.893867552280426, g_id = 11, v_id = 80
+wording = The music could start with light, playful melodies mimicking the cheerful laughter of children. As the hula hooping intensifies, the tempo picks up, adding energetic percussion to match their movements. A catchy, repetitive motif could symbolize the rhythmic motion of the hoops, creating a fun and lively composition.
+Prob: 0.7620118260383606, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.6130448579788208, g_id = 3, v_id = 5
+wording = The music starts with deep, resonant notes, mimicking the elephants' heavy footsteps. As they walk, lighter, more playful melodies join in, reflecting their curious interactions with each other and their environment. The composition builds to a crescendo, symbolizing the majesty and grace of these magnificent creatures.
+Prob: 0.5858340263366699, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.9080658555030823, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+Prob: 0.36920884251594543, g_id = 10, v_id = 77
+wording = The music could start with soft, ambient sounds evoking the crackling of the fire and gentle murmurs of conversation. As the scene intensifies, drums and rhythmic instruments join, mimicking the heartbeat of the group. Melodic elements could represent each person's unique energy, blending into a harmonious, communal theme.
+Prob: 0.7757990956306458, g_id = 2, v_id = 4
+wording = For a group of people dressed in blue and white dancing, the music could reflect a sense of unity and celebration. Imagine a lively rhythm with elements of folk music, perhaps incorporating instruments like tambourines and flutes to create a festive and communal atmosphere. The melody could be uplifting, encouraging listeners to join the dance.
+total accuracy for this clip: 0.45
+&&&&&&&& 1.925
+====== # 11 / 13 
+Process vedio: vedio id =  77  generated id =  10
+Writing 242 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9495912194252014, g_id = 10, v_id = 77
+wording = The music could start with soft, ambient sounds evoking the crackling of the fire and gentle murmurs of conversation. As the scene intensifies, drums and rhythmic instruments join, mimicking the heartbeat of the group. Melodic elements could represent each person's unique energy, blending into a harmonious, communal theme.
+Prob: 0.9603511691093445, g_id = 10, v_id = 77
+wording = The music could start with soft, ambient sounds evoking the crackling of the fire and gentle murmurs of conversation. As the scene intensifies, drums and rhythmic instruments join, mimicking the heartbeat of the group. Melodic elements could represent each person's unique energy, blending into a harmonious, communal theme.
+Prob: 0.9453420639038086, g_id = 10, v_id = 77
+wording = The music could start with soft, ambient sounds evoking the crackling of the fire and gentle murmurs of conversation. As the scene intensifies, drums and rhythmic instruments join, mimicking the heartbeat of the group. Melodic elements could represent each person's unique energy, blending into a harmonious, communal theme.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 12 / 13 
+Process vedio: vedio id =  20  generated id =  5
+Writing 242 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.6634121537208557, g_id = 5, v_id = 20
+wording = A majestic orchestral piece capturing the grandeur of elephants in the wild. The music starts with a gentle, mysterious melody to represent the vastness of their habitat. As the footage shows the elephants roaming freely, the music builds to powerful, uplifting themes, symbolizing their strength, resilience, and the beauty of their natural environment.
+Prob: 0.8186338543891907, g_id = 5, v_id = 20
+wording = A majestic orchestral piece capturing the grandeur of elephants in the wild. The music starts with a gentle, mysterious melody to represent the vastness of their habitat. As the footage shows the elephants roaming freely, the music builds to powerful, uplifting themes, symbolizing their strength, resilience, and the beauty of their natural environment.
+Prob: 0.7181268930435181, g_id = 5, v_id = 20
+wording = A majestic orchestral piece capturing the grandeur of elephants in the wild. The music starts with a gentle, mysterious melody to represent the vastness of their habitat. As the footage shows the elephants roaming freely, the music builds to powerful, uplifting themes, symbolizing their strength, resilience, and the beauty of their natural environment.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+====== # 13 / 13 
+Process vedio: vedio id =  66  generated id =  8
+Writing 302 frames to CSV...
+%%%%num of clip: 3, num of shot: 1
+Prob: 0.9999525547027588, g_id = 8, v_id = 66
+wording = A grand orchestral piece captures the majesty of Yellowstone's Old Faithful erupting, starting with soft strings and woodwinds building anticipation like steam rising. As the geyser spouts, brass and percussion explode into a triumphant melody, mirroring the geyser's powerful display, before settling into a serene, reflective coda as the eruption subsides.
+Prob: 0.9997147917747498, g_id = 8, v_id = 66
+wording = A grand orchestral piece captures the majesty of Yellowstone's Old Faithful erupting, starting with soft strings and woodwinds building anticipation like steam rising. As the geyser spouts, brass and percussion explode into a triumphant melody, mirroring the geyser's powerful display, before settling into a serene, reflective coda as the eruption subsides.
+Prob: 0.999679446220398, g_id = 8, v_id = 66
+wording = A grand orchestral piece captures the majesty of Yellowstone's Old Faithful erupting, starting with soft strings and woodwinds building anticipation like steam rising. As the geyser spouts, brass and percussion explode into a triumphant melody, mirroring the geyser's powerful display, before settling into a serene, reflective coda as the eruption subsides.
+total accuracy for this clip: 1.0
+&&&&&&&& 1.0
+********* Testing sample 3 *******
+======Total accuracy:  0.8625723738626964
+======Total ranking:  1.2431968569065346
